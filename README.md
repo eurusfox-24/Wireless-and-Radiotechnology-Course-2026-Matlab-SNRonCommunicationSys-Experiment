@@ -1,4 +1,5 @@
-# SNR Performance Analysis in Communication Systems
+# SNR Sensitivity & Demodulation Performance in ASK Systems
+> A MATLAB-based analysis of Bit Error Rate (BER) trends and signal integrity under varying Signal-to-Noise Ratio (SNR) conditions.
 
 This repository contains a MATLAB simulation that investigates how varying Signal-to-Noise Ratio (SNR) affects the demodulation performance of an Amplitude Shift Keying (ASK) communication system.
 
